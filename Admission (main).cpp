@@ -1,7 +1,5 @@
 
-/*Name : Hafiz Muneeb ur Rehman
-Roll No. : BCSF15M030
-Project: Admission System*/
+/*Project: Admission System*/
 
 #include"Admission.h"
 int total = 60;
