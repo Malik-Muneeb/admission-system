@@ -1,0 +1,60 @@
+1 Fareeha Rafaqat@ Rafaqat Ali@ 927 945 48 0 
+2 Khawaja Fahad Akbar@ Khawaja Akbar Mustafa@ 854 875 47 0
+3 Umair Yaseen@ Muhammad Yaseen@ 715 712 43 0
+4 Izma Anwar@ Anwar Ali@ 788 815 47 0
+5 Iqra Hussain@ Muhammad Hussain Choudhary@ 800 794 54 0
+6 Muhammad Ali Tahir@ Tahir Nazir@ 904 911 43 20
+7 Namra@ Muhammad Naeem@ 974 875 43 0
+8 Shahid Maqsood@ Maqsood Ahmad@ 885 848 39 0
+9 Hafsah Shehzad@ Tariq Shehzad@ 897 719 43 0
+10 Maheen Ayesha@ Tayyab Ahmad Shakeel@ 904 950  44 0
+11 Mohammad Junaid Bokhari@ Abdul Waheed Shah@ 913 842 53 0
+12 Muhammad Asif Mehmood@ Tariq Mehmood@ 775 698 53 0
+13 Azka Saddiqa@ Abdul Sattar@ 819 758 56 0
+14 Muhammad Majid Idrees@ Muhammad Idrees@ 925 948 22 0
+15 Rimsha Shazad@ Shahzad Yousaf@  947 911 43 0
+16 Reebaha Ashraf@ Muhammad Ashraf@ 845 987  50 0
+17 Muhammad Fawad@ Muhammad Ameen@ 888 999 34 0
+18 Saminasharif@ Sharifabdullah@ 1001 800 30 0
+19 Ayesha Siddiqa@ Muhammad Ashraf@ 715 685 40 0
+20 Tajallah Shafqat@ Muhammad Shafqat@ 836 897 38 0
+21 Muhammad Hamza Razzaq@ Abdul Razzaq@ 745 895  46 0
+22 Fizza Islam@ Abdul Salam@ 987 924 43 0
+23 Soha Zubair@ Muhammad Zubair@ 921 1011 53 0
+24 Abdullah Taslem@ Muhammad Tasleem@ 971 840 32 0
+25 Bisha Ishtiaq@ Ishtiaq Ahmad@ 874 888 57 0
+26 Muhammad Afraz Muzammil@ Muhammad Muzammil Hussain@ 781 745 38 0
+27 Ansha Nawaz@ Rab Nawaz@ 745 587 42  0
+28 Hafiz Zohaib@ Amir Amir Farooq@ 974 874 42 20
+29 Usama Jamshaid@ Jamshaid Iqbal Bhtti@ 687 789 40 0
+30 Osama Ali@ Naimat Ali@ 699 674 48 0
+31 Hassan Julani@ Muhammad Ashraf@ 786 741 39 0
+32 M Farhan Waqar Butt@ M Khalid Waqar Butt@ 741 847 43 0
+33 Rutaba@ Kamran Aziz@ 974 735 57 0
+34 Sana Jamil@ Muhammad Jamil Ahmed@ 748 726 47 0
+35 Noor Ul Ain@ Muhammad Ashraf@ 874 852  38 0
+36 Zainab Shuja@ Shuja_ud_din@  749 861 47 0
+37 Muhammad Usama@ Muhammad Iqbal@  789 681  53 0
+38 Talha waseem@ Waseem Ahamd Bajwa@  749 874 32  0
+39 Usama Nasir@ Jamal@ 748 982 49 0
+40 Najamuddin@ Muhammad Hafeez Butt@ 748 964 49  0
+41 Sakina@ Yawer Ali@ 731 872 45 0
+42 Farah Naz@ Abdul Hamid@ 748 741 34 20
+43 Hafsa Javed@ Javed Iqbal@ 974 991 56 20
+44 Ahmad Ali@ Muhammad Ali@ 970 958 34 0
+45 Zoya@ Javed@ 928 965 44 0
+46 Muneeb Ur Rehman@ Muhammad Hussain Nasir@ 1011 1028 56 0
+47 Faryalanjum@ Anjum@ 897 968 33  0
+48 Shahbaz Ali@ Shoukat Ali@ 748 879 40 0
+49 Nouman Bashir@ Bashir Ahmad@ 749 859 44 0
+50 Sibgha@ Muhammad Ilyas@ 697 897 38 0
+51 Amina Iqbal@ Muhammad Iqbal@ 749 698 53 0
+52 Iqra Mehmood@ Mehmood Hussain@ 873 987 54 0
+53 Isma Fida@ Mirza Fida Hussain@  598 687 43 0
+54 Hafiz Khubaib Bashir@ Bashir Ahmad@  987 1009 55 20
+55 Talha Naveed@ Naveed Irfan@ 981 976 45 20
+56 Arbab Ashfaq Khan@ Muhammad Ashfaq Khan@ 741 852 45 0
+57 Shumaila Khan@ Wali Khan@ 974 874 47 0
+58 Abdullah Khalid@ Saif Ullah Khalid@ 789 987 41 0
+59 Abuzar Javaid@ Javaid Iqbal@ 698 896 35 0
+60 Umair Zahid@ Muhammad Zahid@ 874 678 52 0
